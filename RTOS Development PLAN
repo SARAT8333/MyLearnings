@@ -1,0 +1,27 @@
+RTOS Learning
+
+CHAPTER-1 :INTRODUCTION AND INTERNALS
+          -Introduction to Real-Time Systems
+          -Classification of real time systems
+          -Difference between GPOS and RTOS
+          -Real Time Kernels - RTOS Architecture
+          -Features of RTOS POSIX-RT standard
+
+CHAPTER-2 :INTRODUCTION AND INTERNALS
+          -Performance Metrics of RTOS-
+          -Task Specifications-Task state 
+          - Real Time Scheduling algorithms: Cyclic executive, Rate monotonic, IRIS and Least laxity scheduling
+          -Schedulability Analysis
+
+CHAPTER-3 :INTRODUCTION AND INTERNALS
+           - Resource sharing among tasks
+           - Priority inversion Problem 
+           - Priority inheritance and Priority ceiling Protocols 
+           – Features of commercial and open source real time operating systems: Vxworks, QNX, Micrium OS, RT Linux and Free RTOS
+
+CHAPTER-4 :INTRODUCTION AND INTERNALS
+           - Task synchronization using semaphores, Inter task communication: message queues and pipes, Remote procedure call
+           - Timers and Interrupts
+           - Memory management and I/O management
+
+

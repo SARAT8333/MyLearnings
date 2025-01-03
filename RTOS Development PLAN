@@ -24,4 +24,8 @@ CHAPTER-4 :INTRODUCTION AND INTERNALS
            - Timers and Interrupts
            - Memory management and I/O management
 
+CHAPTER-4 :INTRODUCTION AND INTERNALS
+           - Porting of RTOS, Configuring RTOS for minimizing RAM consumption and increasing Throughput
+           - Building RTOS Image for Target platforms
+
 

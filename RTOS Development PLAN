@@ -7,24 +7,24 @@ CHAPTER-1 :INTRODUCTION AND INTERNALS
           -Real Time Kernels - RTOS Architecture
           -Features of RTOS POSIX-RT standard
 
-CHAPTER-2 :INTRODUCTION AND INTERNALS
+CHAPTER-2 : PERFORMANCE METRICS AND SCHEDULING ALGORITHMS
           -Performance Metrics of RTOS-
           -Task Specifications-Task state 
           - Real Time Scheduling algorithms: Cyclic executive, Rate monotonic, IRIS and Least laxity scheduling
           -Schedulability Analysis
 
-CHAPTER-3 :INTRODUCTION AND INTERNALS
+CHAPTER-3 : RESOURCE SHARING FOR REAL TIME TASKS
            - Resource sharing among tasks
            - Priority inversion Problem 
            - Priority inheritance and Priority ceiling Protocols 
            – Features of commercial and open source real time operating systems: Vxworks, QNX, Micrium OS, RT Linux and Free RTOS
 
-CHAPTER-4 :INTRODUCTION AND INTERNALS
+CHAPTER-4 :APPLICATION PROGRAMMING USING RTOS
            - Task synchronization using semaphores, Inter task communication: message queues and pipes, Remote procedure call
            - Timers and Interrupts
            - Memory management and I/O management
 
-CHAPTER-4 :INTRODUCTION AND INTERNALS
+CHAPTER-4 : RTOS IMAGE BUILDING FOR DIFFERENT TARGET PLATFORMS
            - Porting of RTOS, Configuring RTOS for minimizing RAM consumption and increasing Throughput
            - Building RTOS Image for Target platforms
 

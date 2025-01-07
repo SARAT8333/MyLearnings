@@ -12,6 +12,7 @@ CHAPTER-2 : PERFORMANCE METRICS AND SCHEDULING ALGORITHMS
           -Task Specifications-Task state 
           - Real Time Scheduling algorithms: Cyclic executive, Rate monotonic, IRIS and Least laxity scheduling
           -Schedulability Analysis
+LAB1: Based on threads, signals
 
 CHAPTER-3 : RESOURCE SHARING FOR REAL TIME TASKS
            - Resource sharing among tasks
@@ -23,9 +24,13 @@ CHAPTER-4 :APPLICATION PROGRAMMING USING RTOS
            - Task synchronization using semaphores, Inter task communication: message queues and pipes, Remote procedure call
            - Timers and Interrupts
            - Memory management and I/O management
+LAB2: Mutex, Semaphore, Messages and pipes
 
 CHAPTER-4 : RTOS IMAGE BUILDING FOR DIFFERENT TARGET PLATFORMS
            - Porting of RTOS, Configuring RTOS for minimizing RAM consumption and increasing Throughput
            - Building RTOS Image for Target platforms
+
+Lab3: Create software timers and calculate first expiry time, Go to Sleep mode (Deep sleep/light sleep) woke up and execute task, again go to sleep. 
+
 
 
